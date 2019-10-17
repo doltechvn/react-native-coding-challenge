@@ -1,6 +1,6 @@
 # React Native - Coding Challenge
 
-Thông qua bài test, chúng tôi mong hiểu được một phần kiến thức, và kinh nghiệm của ứng viên trong việc giải quyết các vấn đề thường gặp đối với một Frontend developer. Bên dưới là các bước để hoàn thành bài test.
+Thông qua bài test, chúng tôi mong hiểu được một phần kiến thức, và kinh nghiệm của ứng viên trong việc giải quyết các vấn đề thường gặp đối với một Mobile developer. Bên dưới là các bước để hoàn thành bài test.
 
 
 ## Mô tả
